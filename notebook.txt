@@ -1,0 +1,6 @@
+python Django 後端
+bootstrap 網頁框架
+
+// Creat My First Blog 7/14
+1.cmd(記得切換到指定路徑) > Django-admin startproject "yourFolderName"
+2.use cmd run server > (cmd) python .\manager.py runserve
